@@ -1,2 +1,2 @@
 # Google-Certification
-Organizing completed analysis in template sheets and accompanying visuals generated with Excel, R and Tableau throughout certification and modules
+Organizing completed analysis and accompanying visuals generated with Excel, SQL, R and Tableau throughout certification and modules
